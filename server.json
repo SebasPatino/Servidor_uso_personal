@@ -1,22 +1,120 @@
 {
   "users": [
-    { "id": 1097497124, "name": "Karol Torres", "email": "karoln.oficiall@gmail.com" },
-    { "id": 1005331719, "name": "Sebastian Patiño", "email": "sebastian.patinio@gmail.com" },
-    { "id": 1097789129, "name": "Santiago Calvete", "email": "santiago.calvete@gmail.com" },
-    { "id": 1097497125, "name": "Wilmer Ardila", "email": "wilmer.ardila@gmail.com" },
-    { "id": 1090494126, "name": "Isabella Garcia", "email": "isabella.garcia@gmail.com" },
-    { "id": 1094487125, "name": "Fernado Rodriguez", "email": "Fernando.garcia@gmail.com" },
-    { "id": 1097248032, "name": "Manuel Serrano", "email": "manuel.serrano@gmail.com" },
-    { "id": 1039809238, "name": "Dario Herrera", "email": "dario.herrera@gmail.com" },
-    { "id": 1232488392, "name": "John Bueno", "email": "john.bueno@gmail.com" },
-    { "id": 1482309202, "name": "Paulo Pacheco", "email": "paulo.pacheco@gmail.com" }
+    {
+      "id": 1,
+      "documento": "1097497124",
+      "name": "Karol Torres",
+      "email": "karoln.oficiall@gmail.com"
+    },
+    {
+      "id": 2,
+      "documento": "1005331719",
+      "name": "Sebastian Patiño",
+      "email": "sebastian.patinio@gmail.com"
+    },
+    {
+      "id": 3,
+      "documento": "1097789129",
+      "name": "Santiago Calvete",
+      "email": "santiago.calvete@gmail.com"
+    },
+    {
+      "id": 4,
+      "documento": "1097497125",
+      "name": "Wilmer Ardila",
+      "email": "wilmer.ardila@gmail.com"
+    },
+    {
+      "id": 5,
+      "documento": "1090494126",
+      "name": "Isabella Garcia",
+      "email": "isabella.garcia@gmail.com"
+    },
+    {
+      "id": 6,
+      "documento": "1094487125",
+      "name": "Fernando Rodriguez",
+      "email": "Fernando.rodriguez@gmail.com"
+    },
+    {
+      "id": 7,
+      "documento": "1097248032",
+      "name": "Manuel Serrano",
+      "email": "manuel.serrano@gmail.com"
+    },
+    {
+      "id": 8,
+      "documento": "1039809238",
+      "name": "Dario Herrera",
+      "email": "dario.herrera@gmail.com"
+    },
+    {
+      "id": 9,
+      "documento": "1232488392",
+      "name": "John Bueno",
+      "email": "john.bueno@gmail.com"
+    },
+    {
+      "id": 10,
+      "documento": "1482309202",
+      "name": "Paulo Pacheco",
+      "email": "paulo.pacheco@gmail.com"
+    }
   ],
-
   "tasks": [
-
-  ],         
-
-  "comments": [
-   
+    {
+      "title": "PRUEBA",
+      "description": "PRUEBA",
+      "status": "pendiente",
+      "userId": 1,
+      "userName": "Karol Torres",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "HOLAAAAAA",
+      "description": "PRUEBA 2",
+      "status": "en_progreso",
+      "userId": 1,
+      "userName": "Karol Torres",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "ADIOOOOOS",
+      "description": "PRUEBA 3",
+      "status": "completada",
+      "userId": 1,
+      "userName": "Karol Torres",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "CÓMO ESTÁS?",
+      "description": "PRUEBA 4",
+      "status": "pendiente",
+      "userId": 2,
+      "userName": "Sebastian Patiño",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "USH Y ESO?",
+      "description": "PRUEBA 5",
+      "status": "en_progreso",
+      "userId": 2,
+      "userName": "Sebastian Patiño",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "ZONAAAAAAAS",
+      "description": "PRUEBA 6",
+      "status": "completada",
+      "userId": 2,
+      "userName": "Sebastian Patiño",
+      "completed": true,
+      "id": 6
+    }
   ]
 }
